@@ -58,7 +58,7 @@ Note - You need to open 8080 port on security group.
 
 12) compile and build your application
 cd /opt/tata/build
-git clone https://github.com/tciaindiadevops/basicform.git
+git clone https://github.com/indorenilesh/basicform.git
 cd basicform
 mvn clean install
 

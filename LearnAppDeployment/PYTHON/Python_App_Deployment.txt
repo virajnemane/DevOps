@@ -22,7 +22,7 @@ mkdir bin conf build software logs
 
 6) trigger build for application
 cd /opt/bata/build
-git clone https://github.com/tciaindiadevops/myecho.git -b v3-standalone
+git clone https://github.com/indorenilesh/myecho.git -b v3-standalone
 ./build.sh -E DEV
 
 7) start application
