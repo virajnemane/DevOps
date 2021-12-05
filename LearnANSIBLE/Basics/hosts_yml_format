@@ -1,7 +1,0 @@
-inventory file
----------------
-
-DEV:
-  hosts:
-    dev[01:03].example.com:
-      ansible_user: acfs
