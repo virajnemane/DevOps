@@ -21,7 +21,7 @@ password - bform
 7) Click on Dashboard --> Manage Jenkins --> Global Tool Configuration --> go to at the end of the page and click on "Add Maven"
 8) Type "MyMaven" in "Name"  textbox.
 9) Be sure "Install automatically" checkbox should selected.
-10) Click on Apply and Save.
+10) Click on Apply and Save and then RESTART JENKINS.
 11) Login on TOMCAT server with bform user.
 12) generate ssh key
     ssh-keygen -t rsa -N "" -f ~/.ssh/id_rsa
