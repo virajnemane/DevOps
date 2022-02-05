@@ -1,6 +1,0 @@
----
-- name: "Install and configure apache"
-  hosts: "{{ HOSTS }}"
-  become: yes
-  roles: 
-   - role: APACHE

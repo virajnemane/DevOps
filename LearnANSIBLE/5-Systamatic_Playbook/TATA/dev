@@ -1,4 +1,0 @@
-[webserver]
-web-1   ansible_user=admin  ansible_host=
-web-2   ansible_user=admin  ansible_host=
-web-3   ansible_user=admin  ansible_host=

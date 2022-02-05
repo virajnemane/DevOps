@@ -1,2 +1,0 @@
-FROM ubuntu
-ENTRYPOINT ping -c3 localhost
